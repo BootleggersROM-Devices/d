@@ -222,7 +222,7 @@
     </string>
 
     <!-- Height of the status bar -->
-    <dimen name="status_bar_height_portrait">87.0px</dimen>
+    <dimen name="status_bar_height_portrait">86.0px</dimen>
     <dimen name="status_bar_height_landscape">24.0dp</dimen>
 
     <!-- Whether to show battery percentage inside icon -->
